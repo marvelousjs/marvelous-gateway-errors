@@ -1,0 +1,16 @@
+{
+  "name": "@marvelousjs/gateway-errors",
+  "version": "1.0.0",
+  "description": "gateway errors for the marvelous framework",
+  "main": "./dist/main.js",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  },
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  }
+}
