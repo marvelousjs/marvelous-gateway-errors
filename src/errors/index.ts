@@ -1,4 +1,5 @@
 export * from './BadRequestGatewayError';
+export * from './CouldNotConnectGatewayError';
 export * from './ConflictGatewayError';
 export * from './ForbiddenGatewayError';
 export * from './MethodNotAllowedGatewayError';
